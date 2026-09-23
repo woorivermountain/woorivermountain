@@ -1,5 +1,7 @@
 # 우강산
 
+**AI builder and aspiring Forward Deployed Engineer (FDE)** focused on turning real-world workflows into usable, trustworthy AI products. I enjoy working across problem framing, product flows, data, evaluation, and implementation—especially where AI should support, rather than replace, human judgment.
+
 AI 기능을 먼저 정하기보다, **누가 어떤 판단에서 시간을 잃고 있는지**부터 확인합니다.  
 현장의 말과 업무 흐름을 문제 정의, 데이터 구조, 기능 경계와 검증 기준으로 바꾸는 일을 좋아합니다.
 
