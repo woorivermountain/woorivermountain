@@ -19,7 +19,7 @@ AI를 쓰는 데서 멈추지 않고, **AI가 책임 있게 일할 구조**를 �
 
 | 프로젝트 | 문제를 좁힌 방식 | 검증 가능한 증거 | 내린 결정 |
 | --- | --- | --- | --- |
-| **[산업 검사 데이터 감사](https://github.com/woorivermountain/inspection-data-audit)** | 높은 정확도보다 누설·표본 독립성·시간 강건성을 먼저 감사 | Siemens SMT AOI **440,274행**, 미래 AUROC **0.878** | 결함 누락 1% 이하에서 검사량 절감 **3.16%**로 목표 40% 미달 → **적용 보류** |
+| **[산업 검사 데이터 감사](https://github.com/woorivermountain/inspection-data-audit)** | 높은 정확도보다 누설·표본 독립성·시간 강건성을 먼저 감사 | Siemens SMT AOI **440,274행**, 미래 AUROC **0.878** | 결함 누락 1% 이하에서 검사량 절감 <strong>3.16%</strong>로 목표 40% 미달 → **적용 보류** |
 | **[골든타임](https://github.com/woorivermountain/goldentime)** | 자동판정을 근거 검색형 조사 보조로 전환 | 판정례 **56,535건**, 분류 **1,253건 Top-3 79%**, 검색 **140건 Hit@10 78% · MRR 0.52** | AI는 근거를 찾고 최종 판단은 조사자에게 유지 |
 | **[Meeting Copilot](https://github.com/woorivermountain/meeting-copilot)** | 상시 녹음·자동 저장 대신 명시적 호출과 승인 흐름 설계 | 근거성 **100%**, 명단 밖 담당자 **0건**, 일반 발화 호출 **0건** | 검증·승인된 결정과 할 일만 저장 |
 | **[ESS 배터리 수명 예측](https://github.com/woorivermountain/ess-battery-life)** | 무작위 분할 대신 Batch 1 개발·Batch 2 고정 평가 | Batch 1 CV MAPE **7.49%**, Batch 2 MAPE **26.59%** | 더 좋아 보인 사후 모델로 바꾸지 않고 분포 이동과 실패를 보고 |
