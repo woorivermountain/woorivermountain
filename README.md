@@ -23,6 +23,7 @@ AI를 쓰는 데서 멈추지 않고, **AI가 책임 있게 일할 구조**를 �
 | **[골든타임](https://github.com/woorivermountain/goldentime)** | 자동판정을 근거 검색형 조사 보조로 전환 | 판정례 **56,535건**, 분류 **1,253건 Top-3 79%**, 검색 **140건 Hit@10 78% · MRR 0.52** | AI는 근거를 찾고 최종 판단은 조사자에게 유지 |
 | **[Meeting Copilot](https://github.com/woorivermountain/meeting-copilot)** | 상시 녹음·자동 저장 대신 명시적 호출과 승인 흐름 설계 | 근거성 **100%**, 명단 밖 담당자 **0건**, 일반 발화 호출 **0건** | 검증·승인된 결정과 할 일만 저장 |
 | **[ESS 배터리 수명 예측](https://github.com/woorivermountain/ess-battery-life)** | 무작위 분할 대신 Batch 1 개발·Batch 2 고정 평가 | Batch 1 CV MAPE **7.49%**, Batch 2 MAPE **26.59%** | 더 좋아 보인 사후 모델로 바꾸지 않고 분포 이동과 실패를 보고 |
+| **[부울경 5-Agent 해커톤](./case-studies/bukyeong-multi-agent.md)** | 각자 만든 기능을 하나의 사용자 여정으로 어떻게 묶을까 | 4인 팀, 5개 Agent, 34개 팀·140여 명 중 일반부 우수상 | Agent별 입력·예외·handoff를 공통 계약으로 정리 |
 
 ## 제가 주로 하는 일
 
@@ -46,7 +47,7 @@ flowchart LR
 ## 어디서부터 보면 좋을까요?
 
 **AI Product / PO 관점**<br>
-[골든타임](https://github.com/woorivermountain/goldentime) → [Meeting Copilot](https://github.com/woorivermountain/meeting-copilot) → [스마트 안전모 관제 시뮬레이터](https://github.com/woorivermountain/smart-safety-helmet)
+[골든타임](https://github.com/woorivermountain/goldentime) → [부울경 5-Agent 해커톤](./case-studies/bukyeong-multi-agent.md) → [Meeting Copilot](https://github.com/woorivermountain/meeting-copilot)
 
 **FDE / Applied AI 관점**<br>
 [산업 검사 데이터 감사](https://github.com/woorivermountain/inspection-data-audit) → [Meeting Copilot](https://github.com/woorivermountain/meeting-copilot) → [ESS 배터리 수명 예측](https://github.com/woorivermountain/ess-battery-life)
