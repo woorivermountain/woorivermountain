@@ -4,7 +4,7 @@
   <img alt="우강산 — AI가 일할 구조를 설계하는 AI Product Engineer · Forward Deployed Engineer" src="./assets/profile-banner-light.svg" width="100%">
 </picture>
 
-# 우강산 · Woogangsan
+# 우강산 · Kangsan Woo
 
 **AI Product Engineer · Forward Deployed Engineer**<br>
 AI를 쓰는 데서 멈추지 않고, **AI가 책임 있게 일할 구조**를 설계합니다.
