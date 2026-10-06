@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Woogangsan, AI Product Engineer and Forward Deployed Engineer</title>
+  <desc id="desc">A visual workflow from problem framing through AI systems, evaluation, and human approval.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#F7F8F4"/><stop offset="1" stop-color="#E8F4EF"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#16372E" flood-opacity=".10"/></filter>
+  </defs>
+  <rect width="1280" height="320" rx="26" fill="url(#bg)"/><circle cx="1140" cy="30" r="180" fill="#D9EEE5" opacity=".75"/><circle cx="1220" cy="250" r="115" fill="#FFDDD2" opacity=".70"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', sans-serif">
+    <text x="72" y="88" font-size="20" font-weight="700" letter-spacing="2" fill="#EE6A4A">AI PRODUCT · FDE</text>
+    <text x="72" y="144" font-size="42" font-weight="750" fill="#172D27">AI가 일할 구조를 설계합니다</text>
+    <text x="72" y="184" font-size="20" fill="#4B625A">Context · Tools · Evals · Guardrails · Human Approval</text>
+    <g transform="translate(72 226)" filter="url(#shadow)">
+      <rect width="190" height="54" rx="13" fill="#FFFFFF"/><text x="95" y="34" text-anchor="middle" font-size="16" font-weight="650" fill="#172D27">문제와 병목</text><path d="M202 27h31" stroke="#7D978E" stroke-width="2"/><path d="m228 20 8 7-8 7" fill="none" stroke="#7D978E" stroke-width="2"/>
+      <rect x="246" width="190" height="54" rx="13" fill="#FFFFFF"/><text x="341" y="34" text-anchor="middle" font-size="16" font-weight="650" fill="#172D27">AI workflow</text><path d="M448 27h31" stroke="#7D978E" stroke-width="2"/><path d="m474 20 8 7-8 7" fill="none" stroke="#7D978E" stroke-width="2"/>
+      <rect x="492" width="190" height="54" rx="13" fill="#FFFFFF"/><text x="587" y="34" text-anchor="middle" font-size="16" font-weight="650" fill="#172D27">평가와 중단 조건</text><path d="M694 27h31" stroke="#7D978E" stroke-width="2"/><path d="m720 20 8 7-8 7" fill="none" stroke="#7D978E" stroke-width="2"/>
+      <rect x="738" width="190" height="54" rx="13" fill="#173C32"/><text x="833" y="34" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">사람의 판단</text>
+    </g>
+    <text x="1208" y="292" text-anchor="end" font-size="18" font-weight="700" fill="#173C32">우강산 · WOOGANGSAN</text>
+  </g>
+</svg>
