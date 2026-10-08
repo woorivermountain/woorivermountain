@@ -4,7 +4,7 @@
   <img alt="AI가 없었다면, 어떻게 풀었을까요? 우강산 · Kang-San Woo" src="./assets/profile-banner-light.svg" width="100%">
 </picture>
 
-# Kang-San Woo · 우강산 (Kevin) (Kevin)
+# Kang-San Woo · 우강산 (Kevin)
 
 **UOU Undergraduate · Philosophy & Counseling + Industrial Management Engineering**
 
@@ -27,7 +27,7 @@ SKALA 4기에서 프로젝트를 통해 AI를 배우고 있습니다.
 <details>
 <summary>골든타임의 데이터와 평가 조건 보기</summary>
 
-공개 판정례 56,535건을 검색 기반으로 구성했습니다. 질병 분류 1,253건에서는 Top-3 79%를 보고했습니다. 검색은 140개 질의마다 후보 120건을 둔 Known-item 평가에서 Hit@10 77.9%, MRR 0.521을 얻었습니다.
+공개 API의 판정례 총량은 56,535건입니다. 질병 분류 1,253건에서는 Top-3 79%를 보고했습니다. 검색은 140개 질의마다 후보 120건을 둔 Known-item 평가에서 Hit@10 77.9%, MRR 0.521을 얻었습니다.
 
 현재 질의 흐름은 규칙 기반 분류와 근거 검색입니다. 검색 결과를 생성 모델에 넣는 RAG와 구분합니다. 이 평가는 실제 조사 시간 단축이나 판정 정확도 향상을 측정한 결과가 아니며, 질병군별 편차는 평가 문서에 남겼습니다.
 
@@ -80,7 +80,7 @@ SKALA 4기에서 프로젝트를 통해 AI를 배우고 있습니다.
 
 **[SKY NOW](https://github.com/woorivermountain/sky-now)** — 출처와 갱신 상태를 확인할 수 있는 날씨 인터페이스입니다. 지역별 데이터를 정규화하고, 캐시 상태와 화면 밖 애니메이션의 동작을 다뤘습니다.
 
-**[Smart Safety Helmet](https://github.com/woorivermountain/smart-safety-helmet)** — 위험 알림에서 사람의 확인·취소로 이어지는 흐름을 React·TypeScript로 구현했습니다. 센서·모델·응급 연동은 Mock으로 구성한 프로토타입입니다.
+**[Smart Safety Helmet](https://github.com/woorivermountain/smart-safety-helmet)** — 위험 알림에서 사람의 확인·취소로 이어지는 흐름을 React·TypeScript로 구현했습니다. Mock 데이터로 화면 흐름을 구현했으며, 실제 센서·추론 모델·응급 서비스 연동은 다음 단계입니다.
 
 **[SKALA 학습 플래너](https://github.com/woorivermountain/skala-study-planner)** — 교육 일정과 복습 항목을 정리하는 학습 도구입니다. 학습 과정에서 필요한 작은 기능도 직접 구현하며 기록합니다.
 
